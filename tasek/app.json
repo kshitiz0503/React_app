@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "tasek",
+    "slug": "tasek",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://unsplash.com/photos/apple-logo-x60YFtdOsGU",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://unsplash.com/photos/apple-logo-x60YFtdOsGU",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://unsplash.com/photos/apple-logo-x60YFtdOsGU",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.kshitu.tasek"
+    }
+  }
+}
